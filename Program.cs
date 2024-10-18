@@ -8,6 +8,12 @@ namespace diakosztalyzat
 {
     internal class Program
     {
+
+        static int input()
+        {
+            Console.WriteLine();
+            return Convert.ToInt32(Console.ReadLine());
+        }
         static void Main(string[] args)
         {
         }
