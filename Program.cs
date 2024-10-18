@@ -29,12 +29,13 @@ namespace diakosztalyzat
             {
                 return "jó";
             }
+            else if(points < 100)
+            {
+                return "jelse";
+            }
             else
             {
-                return "jeles";
-            }
-            {
-
+                return "érvénytelen pontszám";
             }
         }
         static void Main(string[] args)
