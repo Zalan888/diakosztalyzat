@@ -1,0 +1,7 @@
+C:\Users\witmannz\gitWork\diakosztalyzat\bin\Debug\diakosztalyzat.exe.config
+C:\Users\witmannz\gitWork\diakosztalyzat\bin\Debug\diakosztalyzat.exe
+C:\Users\witmannz\gitWork\diakosztalyzat\bin\Debug\diakosztalyzat.pdb
+C:\Users\witmannz\gitWork\diakosztalyzat\obj\Debug\diakosztalyzat.csproj.AssemblyReference.cache
+C:\Users\witmannz\gitWork\diakosztalyzat\obj\Debug\diakosztalyzat.csproj.CoreCompileInputs.cache
+C:\Users\witmannz\gitWork\diakosztalyzat\obj\Debug\diakosztalyzat.exe
+C:\Users\witmannz\gitWork\diakosztalyzat\obj\Debug\diakosztalyzat.pdb
